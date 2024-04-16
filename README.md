@@ -147,4 +147,11 @@ OPENAI_API_KEY="API KEY"
 PINECONE_API_KEY"API KEY"
 ![alt text](image-1.png)
 
+### localhost manuel eingeben
 
+Sobald man im Terminal den befehl: pmpn dev eingibt erscheint der link   
+- Local:        http://localhost:3000
+- Network:      http://0.0.0.0:3000
+Wenn man darauf klickt funktionert der link nicht, darum muss man localhost:3000 selber im browser eingeben.
+
+Wenn du es bis hier geschafft hast, kannst du an dem Projekt arbeiten. Viel spass noch!
