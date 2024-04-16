@@ -10,7 +10,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, clone the repository:
 
 ```bash
-git clone -b modul347 https://github.com/King9977/slala.git
+git clone https://github.com/King9977/slala347.git
 cd slala
 ```
 
